@@ -348,7 +348,7 @@
 - [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels.
 - [wh0am1-dev/adventure](https://github.com/wh0am1-dev/adventure) - Colossal Cave Adventure source code ! (1976)
 - [ivkos/Sofia-Public-Transport-API](https://github.com/ivkos/Sofia-Public-Transport-API) - Documentation for the Sofia Public Transport API
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [F-3r/xrandr.rb](https://github.com/F-3r/xrandr.rb) - A ruby interface to XrandR (http://www.x.org/wiki/Projects/XRandR)
 - [zvezdi/card_engine](https://github.com/zvezdi/card_engine) - 
 - [mojombo/ernie](https://github.com/mojombo/ernie) - Ernie is an Erlang/Ruby BERT-RPC Server.
