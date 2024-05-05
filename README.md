@@ -38,6 +38,7 @@
 
 ## C 
 
+- [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [kristrev/tproxy-example](https://github.com/kristrev/tproxy-example) - An example of how TPROXY can be used to proxy tcp connections.
 - [hellosiyan/Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
