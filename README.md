@@ -24,6 +24,7 @@
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -216,6 +217,10 @@
 - [leahneukirchen/styleguide](https://github.com/leahneukirchen/styleguide) - 
 - [CodeOfficer/jquery-ui-rails-helpers](https://github.com/CodeOfficer/jquery-ui-rails-helpers) - JQuery UI helpers you can use in your Rails apps
 - [fiveruns/memcache-client](https://github.com/fiveruns/memcache-client) - Seattle.rb's memcache-client 1.5.0 with fixes
+
+## PHP 
+
+- [hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php) - This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
 
 ## Python 
 
