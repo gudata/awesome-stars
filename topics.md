@@ -653,7 +653,7 @@
 - [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
 - [excid3/madmin](https://github.com/excid3/madmin) - A robust Admin Interface for Ruby on Rails apps
 - [st0012/object_tracer](https://github.com/st0012/object_tracer) - ObjectTracer tracks objects and records their activities
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [st0yanov/action_mailer_pixel](https://github.com/st0yanov/action_mailer_pixel) - Tracks email open rate by including a tracking pixel in the message body.
 - [tenderlove/our_pc](https://github.com/tenderlove/our_pc) - Our Procedure Calls
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
@@ -703,7 +703,7 @@
 
 ## shell 
 
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 
 ## sql 
 
