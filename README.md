@@ -431,7 +431,7 @@
 ## Shell 
 
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [vintikjeny/zabbix2-screen-maker](https://github.com/vintikjeny/zabbix2-screen-maker) - Script for easy create Zabbix 2 Screens (import files) for multiply hosts and graphs
 - [rails/rails-dev-box](https://github.com/rails/rails-dev-box) - A virtual machine for Ruby on Rails core development
