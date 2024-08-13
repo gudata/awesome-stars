@@ -135,7 +135,6 @@
 - [Katee/maze](https://github.com/Katee/maze) - Generate random playable mazes
 - [InsightDataScience/slate](https://github.com/InsightDataScience/slate) - Beautiful static documentation for your API
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- [mkhairi/materialize-sass](https://github.com/mkhairi/materialize-sass) - Materializecss rubygem for Rails Asset Pipeline / Sprockets
 - [fourpixels/badoc](https://github.com/fourpixels/badoc) - 
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [HackBulgaria/Frontend-JavaScript-2](https://github.com/HackBulgaria/Frontend-JavaScript-2) - The second edition of the Frontend JavaScript course in HackBulgaria.
@@ -259,6 +258,7 @@
 - [gdwrd/mruby-smallhttp](https://github.com/gdwrd/mruby-smallhttp) - mruby-smallhttp for mruby
 - [design-patterns-in-ruby/design-patterns-in-ruby](https://github.com/design-patterns-in-ruby/design-patterns-in-ruby) - Examples from the book Design Patterns in Ruby by Russ Olsen.  # ruby 2.2.0
 - [ReactiveX/RxRuby](https://github.com/ReactiveX/RxRuby) - Reactive Extensions for Ruby
+- [mkhairi/materialize-sass](https://github.com/mkhairi/materialize-sass) - Materializecss rubygem for Rails Asset Pipeline / Sprockets
 - [jarmo/require_all](https://github.com/jarmo/require_all) - A wonderfully simple way to load Ruby code
 - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
 - [cerebris/jsonapi-resources](https://github.com/cerebris/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
