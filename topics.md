@@ -15,8 +15,6 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [backend](#backend)
-- [chrome](#chrome)
-- [chrome-extension](#chrome-extension)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
@@ -28,7 +26,6 @@
 - [devops](#devops)
 - [docker](#docker)
 - [education](#education)
-- [firefox](#firefox)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -126,14 +123,6 @@
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
-## chrome 
-
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-
-## chrome-extension 
-
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-
 ## code-quality 
 
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
@@ -181,10 +170,6 @@
 ## education 
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-## firefox 
-
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ## font 
 
