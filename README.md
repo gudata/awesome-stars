@@ -86,6 +86,7 @@
 
 ## Go 
 
+- [dhth/omm](https://github.com/dhth/omm) - "on-my-mind": A keyboard-driven task manager for the command line
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
