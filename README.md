@@ -126,7 +126,7 @@
 ## JavaScript 
 
 - [badboysm890/clara-copilot](https://github.com/badboysm890/clara-copilot) - A alternative to Github Copilot for vscode until you get the access to github copilot
-- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
+- [ElyaConrad/iCloud-API](https://github.com/ElyaConrad/iCloud-API) - Node API for Apple's iCloud services
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [cdthomp1/link-saver-shortcut](https://github.com/cdthomp1/link-saver-shortcut) - 
 - [dopamine-lab/pixi-boilerplate](https://github.com/dopamine-lab/pixi-boilerplate) - Pixi.js project quick start. Takes care of loading assets and intiliazing the scene.
