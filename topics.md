@@ -323,7 +323,7 @@
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
 - [Julfikar-Haidar/coding-interview-university](https://github.com/Julfikar-Haidar/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [MauriceConrad/iCloud-API](https://github.com/MauriceConrad/iCloud-API) - Node API for Apple's iCloud services
+- [ElyaConrad/iCloud-API](https://github.com/ElyaConrad/iCloud-API) - Node API for Apple's iCloud services
 - [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) - This is the development tree. Production downloads are at:
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [fstrube/frak](https://github.com/fstrube/frak) - A lightweight deployment tool that uses rsync to push file changes to remote servers.
