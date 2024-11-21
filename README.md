@@ -115,6 +115,7 @@
 - [fightforthefuture/battleforthenet](https://github.com/fightforthefuture/battleforthenet) - 
 - [chrishunt/git-pissed](https://github.com/chrishunt/git-pissed) - gitting pissed about your code
 - [elm-city-craftworks/practicing-ruby-manuscripts](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) - Collection of source manuscripts for publicly released Practicing Ruby articles
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ArtAround/artaround-web](https://github.com/ArtAround/artaround-web) - ArtAround: The Website.
 
 ## Java 
@@ -194,7 +195,6 @@
 - [barsoom/devbook](https://github.com/barsoom/devbook) - Barsoom developer's handbook
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [rubocop/rails-style-guide](https://github.com/rubocop/rails-style-guide) - A community-driven Ruby on Rails style guide
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [pyrat/punch](https://github.com/pyrat/punch) - Fork of Ara T. Howard's punch time-tracker. Not under development, just fixed a bug that kept it from running.
 - [oreillymedia/open_government](https://github.com/oreillymedia/open_government) - Open Government, released as part of #PDFtribute
 - [gudata/jQuery-Timepicker-Addon](https://github.com/gudata/jQuery-Timepicker-Addon) - Adds a timepicker to jQueryUI Datepicker
@@ -428,7 +428,7 @@
 ## Rust 
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [fxbox/foxbox](https://github.com/fxbox/foxbox) - The FoxBox daemon
 
