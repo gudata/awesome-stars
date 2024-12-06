@@ -75,6 +75,7 @@
 - [testing](#testing)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
+- [vpn](#vpn)
 - [web](#web)
 - [webpack](#webpack)
 - [wordpress](#wordpress)
@@ -316,7 +317,6 @@
 - [dhth/omm](https://github.com/dhth/omm) - "on-my-mind": A keyboard-driven task manager for the command line
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [datarootsio/terraform-aws-ecs-airflow](https://github.com/datarootsio/terraform-aws-ecs-airflow) - A terraform module that creates an airflow instance in AWS ECS.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [badboysm890/clara-copilot](https://github.com/badboysm890/clara-copilot) - A alternative to Github Copilot for vscode until you get the access to github copilot
@@ -720,6 +720,10 @@
 ## vim 
 
 - [vim-ruby/vim-ruby](https://github.com/vim-ruby/vim-ruby) - Vim/Ruby Configuration Files
+
+## vpn 
+
+- [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 
 ## web 
 
