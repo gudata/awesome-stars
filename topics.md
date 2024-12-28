@@ -314,6 +314,7 @@
 
 ## others 
 
+- [medishen/qiks](https://github.com/medishen/qiks) - A caching in TypeScript
 - [dhth/omm](https://github.com/dhth/omm) - "on-my-mind": A keyboard-driven task manager for the command line
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
