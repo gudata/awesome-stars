@@ -71,7 +71,6 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
-- [symfony](#symfony)
 - [testing](#testing)
 - [ubuntu](#ubuntu)
 - [vim](#vim)
@@ -704,10 +703,6 @@
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
-
-## symfony 
-
-- [hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php) - This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
 
 ## testing 
 
