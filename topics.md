@@ -69,7 +69,6 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
-- [shell](#shell)
 - [sql](#sql)
 - [testing](#testing)
 - [ubuntu](#ubuntu)
@@ -691,10 +690,6 @@
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [fterh/heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment
-
-## shell 
-
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 
 ## sql 
 
