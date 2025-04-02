@@ -423,7 +423,7 @@
 ## Rust 
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [fxbox/foxbox](https://github.com/fxbox/foxbox) - The FoxBox daemon
 
