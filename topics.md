@@ -72,6 +72,7 @@
 - [sql](#sql)
 - [testing](#testing)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
 - [web](#web)
@@ -708,6 +709,10 @@
 ## ubuntu 
 
 - [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
+
+## ui 
+
+- [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 
 ## vim 
 
