@@ -388,7 +388,7 @@
 - [chrishunt/git-pissed](https://github.com/chrishunt/git-pissed) - gitting pissed about your code
 - [dnagir/allowy](https://github.com/dnagir/allowy) - Easy and extremely simple authorization
 - [elm-city-craftworks/practicing-ruby-manuscripts](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) - Collection of source manuscripts for publicly released Practicing Ruby articles
-- [ooyala/barkeep](https://github.com/ooyala/barkeep) - The friendly code review system.
+- [brightcove-archive/ooyala_barkeep](https://github.com/brightcove-archive/ooyala_barkeep) - The friendly code review system.
 - [jfernandez/SublimeRailsEval](https://github.com/jfernandez/SublimeRailsEval) - Evaluate the selection in the Rails environment and print the result.
 - [pyrat/punch](https://github.com/pyrat/punch) - Fork of Ara T. Howard's punch time-tracker. Not under development, just fixed a bug that kept it from running.
 - [spinscale/elasticsearch-suggest-plugin](https://github.com/spinscale/elasticsearch-suggest-plugin) - Plugin for elasticsearch which uses the lucene FSTSuggester
