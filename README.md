@@ -115,7 +115,6 @@
 - [fightforthefuture/battleforthenet](https://github.com/fightforthefuture/battleforthenet) - 
 - [chrishunt/git-pissed](https://github.com/chrishunt/git-pissed) - gitting pissed about your code
 - [elm-city-craftworks/practicing-ruby-manuscripts](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) - Collection of source manuscripts for publicly released Practicing Ruby articles
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ArtAround/artaround-web](https://github.com/ArtAround/artaround-web) - ArtAround: The Website.
 
 ## Java 
@@ -232,6 +231,7 @@
 - [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
 - [jiqingtang/xd](https://github.com/jiqingtang/xd) - GUI wrapper for git/svn diff
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jfernandez/SublimeRailsEval](https://github.com/jfernandez/SublimeRailsEval) - Evaluate the selection in the Rails environment and print the result.
 - [peterbe/mincss](https://github.com/peterbe/mincss) - Tool for finding out which CSS selectors you're NOT using.
 - [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes.
