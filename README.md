@@ -190,7 +190,7 @@
 - [ivkos/Sofia-Public-Transport-API](https://github.com/ivkos/Sofia-Public-Transport-API) - Documentation for the Sofia Public Transport API
 - [rvm/ubuntu_rvm](https://github.com/rvm/ubuntu_rvm) - Ubuntu package for RVM
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [barsoom/devbook](https://github.com/barsoom/devbook) - Barsoom developer's handbook
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [rubocop/rails-style-guide](https://github.com/rubocop/rails-style-guide) - A community-driven Ruby on Rails style guide
