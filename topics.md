@@ -21,6 +21,7 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
+- [compiler](#compiler)
 - [computer-science](#computer-science)
 - [crawler](#crawler)
 - [css](#css)
@@ -151,6 +152,10 @@
 ## coding 
 
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+
+## compiler 
+
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 
 ## computer-science 
 
@@ -685,6 +690,7 @@
 
 ## rust 
 
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
