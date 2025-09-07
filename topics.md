@@ -36,6 +36,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -217,6 +218,10 @@
 ## game 
 
 - [VacaRoxa/CodenameLT](https://github.com/VacaRoxa/CodenameLT) - A pixelart game where you have to run without getting caught by evil agents made originally for GGJ2018
+
+## gaming 
+
+- [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
 
 ## git 
 
