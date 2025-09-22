@@ -64,6 +64,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [python](#python)
@@ -631,6 +632,10 @@
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## programming-language 
+
+- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 
 ## project-management 
 
