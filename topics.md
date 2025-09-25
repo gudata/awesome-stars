@@ -17,6 +17,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [backend](#backend)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -137,6 +138,10 @@
 ## backend 
 
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## cms 
 
