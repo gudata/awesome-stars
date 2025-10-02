@@ -500,7 +500,6 @@
 - [hassox/warden_omniauth](https://github.com/hassox/warden_omniauth) - Warden OmniAuth adapter
 - [mytrile/marky](https://github.com/mytrile/marky) - Marky is simple wrapper for converting strings/text to html using different markdown processors.
 - [gudata/pomodoro](https://github.com/gudata/pomodoro) - Linux timer setuped for the pomodoro technique
-- [e1senh0rn/capistrano-recipes](https://github.com/e1senh0rn/capistrano-recipes) - Useful Capistrano recipes
 - [dre3k/rails3_fcgi](https://github.com/dre3k/rails3_fcgi) - Rails3 and FastCGI
 - [ArtAround/artaround-web](https://github.com/ArtAround/artaround-web) - ArtAround: The Website.
 - [gudata/startup](https://github.com/gudata/startup) - Mongoid+devise+more...
