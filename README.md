@@ -319,7 +319,6 @@
 - [hassox/warden_omniauth](https://github.com/hassox/warden_omniauth) - Warden OmniAuth adapter
 - [mytrile/marky](https://github.com/mytrile/marky) - Marky is simple wrapper for converting strings/text to html using different markdown processors.
 - [gudata/pomodoro](https://github.com/gudata/pomodoro) - Linux timer setuped for the pomodoro technique
-- [e1senh0rn/capistrano-recipes](https://github.com/e1senh0rn/capistrano-recipes) - Useful Capistrano recipes
 - [dre3k/rails3_fcgi](https://github.com/dre3k/rails3_fcgi) - Rails3 and FastCGI
 - [DavidBoyes/thumbs_up](https://github.com/DavidBoyes/thumbs_up) - Dead-Simple Vote and Karma Management
 - [kristianmandrup/cream](https://github.com/kristianmandrup/cream) - Integrates Devise, Roles and CanCan with Permits for a Rails 3 app
