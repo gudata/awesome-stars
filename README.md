@@ -430,6 +430,7 @@
 
 ## Shell 
 
+- [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
