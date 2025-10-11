@@ -348,6 +348,7 @@
 
 ## others 
 
+- [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [medishen/qiks](https://github.com/medishen/qiks) - A caching in TypeScript
 - [dhth/omm](https://github.com/dhth/omm) - on-my-mind: a keyboard-driven task manager for the command line
