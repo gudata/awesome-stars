@@ -538,7 +538,6 @@
 - [hashrocket/decent_exposure](https://github.com/hashrocket/decent_exposure) - A helper for creating declarative interfaces in controllers
 - [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
 - [ahe/mongo_admin](https://github.com/ahe/mongo_admin) - Browse and manage your MongoMapper data using your browser
-- [peleteiro/progressbar](https://github.com/peleteiro/progressbar) - This project has been merged with ruby-progressbar.
 - [lperichon/bon-appetit](https://github.com/lperichon/bon-appetit) - 
 - [bblimke/webmock](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests in Ruby.
 - [mislav/nibbler](https://github.com/mislav/nibbler) - A cute HTML scraper / data extraction tool in under 70 lines of code
