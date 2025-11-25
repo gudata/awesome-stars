@@ -212,7 +212,6 @@
 - [gudata/thumbs_up](https://github.com/gudata/thumbs_up) - Dead-Simple Vote and Karma Management
 - [rishav/rails_best_practices](https://github.com/rishav/rails_best_practices) - rails_best_practices is a gem to check quality of rails app files according to ihower’s presentation from Kungfu RailsConf in Shanghai China
 - [schacon/showoff](https://github.com/schacon/showoff) - moved to puppetlabs/showoff!
-- [peleteiro/progressbar](https://github.com/peleteiro/progressbar) - This project has been merged with ruby-progressbar.
 - [gudata/nifty-generators](https://github.com/gudata/nifty-generators) - A collection of useful Rails generator scripts.
 - [rishav/design_patterns_in_ruby](https://github.com/rishav/design_patterns_in_ruby) - Implementation of Design Patterns in Ruby
 - [leahneukirchen/styleguide](https://github.com/leahneukirchen/styleguide) - 
