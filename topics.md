@@ -51,6 +51,7 @@
 - [http](#http)
 - [ios](#ios)
 - [javascript](#javascript)
+- [js](#js)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
 - [lua](#lua)
@@ -72,6 +73,7 @@
 - [publishing](#publishing)
 - [python](#python)
 - [rails](#rails)
+- [react](#react)
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
@@ -84,6 +86,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vue](#vue)
 - [web](#web)
 - [webpack](#webpack)
 - [wordpress](#wordpress)
@@ -298,12 +301,17 @@
 
 ## javascript 
 
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [wouterbulten/kalmanjs](https://github.com/wouterbulten/kalmanjs) - Javascript based Kalman filter for 1D data
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [reviewboard/reviewboard](https://github.com/reviewboard/reviewboard) - An extensible and friendly code review tool for projects and companies of all sizes.
+
+## js 
+
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
 ## kubernetes 
 
@@ -683,6 +691,10 @@
 - [aasm/aasm](https://github.com/aasm/aasm) - AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)
 - [ctran/annotate_models](https://github.com/ctran/annotate_models) - Annotate Rails classes with schema and routes info
 
+## react 
+
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
+
 ## ruby 
 
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
@@ -766,6 +778,10 @@
 ## vpn 
 
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
+
+## vue 
+
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
 ## web 
 
