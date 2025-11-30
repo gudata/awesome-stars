@@ -445,6 +445,7 @@
 
 ## TypeScript 
 
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [medishen/qiks](https://github.com/medishen/qiks) - A caching in TypeScript
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [fterh/heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment
