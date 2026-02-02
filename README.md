@@ -92,7 +92,7 @@
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
 - [scribd/objinsync](https://github.com/scribd/objinsync) - Continuously synchronize directories from remote object store to local filesystem
 - [bitsbeats/drone-tree-config](https://github.com/bitsbeats/drone-tree-config) - Drone helper for mono repositories.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
