@@ -203,7 +203,7 @@
 ## database 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
 ## developer-tools 
 
@@ -266,7 +266,7 @@
 
 ## graphql 
 
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
 ## hacking-tool 
 
@@ -347,7 +347,7 @@
 ## mongodb 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
 ## monitoring 
 
@@ -358,7 +358,7 @@
 
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
 ## nodejs 
 
@@ -647,7 +647,7 @@
 
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
 ## privacy 
 
@@ -756,14 +756,14 @@
 ## sql 
 
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
 
 ## sqlite 
 
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 
 ## testing 
 
