@@ -427,7 +427,7 @@
 - [Pixabay/jQuery-flexImages](https://github.com/Pixabay/jQuery-flexImages) - A lightweight jQuery plugin for creating fluid galleries as seen on Flickr and Google Images.
 - [jacquescrocker/stopusinglinkedin](https://github.com/jacquescrocker/stopusinglinkedin) - 
 - [barnybug/go-cast](https://github.com/barnybug/go-cast) - A command line tool to control Google Chromecast devices.
-- [fxbox/foxbox](https://github.com/fxbox/foxbox) - The FoxBox daemon
+- [fxbox/foxbox](https://github.com/fxbox/foxbox) - INACTIVE - The FoxBox daemon
 - [jarmo/require_all](https://github.com/jarmo/require_all) - A wonderfully simple way to load Ruby code
 - [google/seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [fourpixels/badoc](https://github.com/fourpixels/badoc) - 
