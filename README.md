@@ -260,7 +260,7 @@
 - [mkhairi/materialize-sass](https://github.com/mkhairi/materialize-sass) - Materializecss rubygem for Rails Asset Pipeline / Sprockets
 - [jarmo/require_all](https://github.com/jarmo/require_all) - A wonderfully simple way to load Ruby code
 - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
-- [cerebris/jsonapi-resources](https://github.com/cerebris/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
+- [JSONAPI-Resources/jsonapi-resources](https://github.com/JSONAPI-Resources/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
 - [kambara/Gyazo-for-Linux](https://github.com/kambara/Gyazo-for-Linux) - Gyazo for Linux
 - [empowerunited/manage](https://github.com/empowerunited/manage) - Ruby On Rails Backend Engine
 - [jaimeiniesta/metainspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes. It scrapes a given URL, and returns you its title, meta description, meta keywords, links, images...
