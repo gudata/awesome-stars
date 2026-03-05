@@ -436,7 +436,7 @@
 - [HackBulgaria/Frontend-JavaScript-2](https://github.com/HackBulgaria/Frontend-JavaScript-2) - The second edition of the Frontend JavaScript course in HackBulgaria.
 - [fightforthefuture/battleforthenet](https://github.com/fightforthefuture/battleforthenet) - 
 - [jiqingtang/xd](https://github.com/jiqingtang/xd) - GUI wrapper for git/svn diff
-- [cerebris/jsonapi-resources](https://github.com/cerebris/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
+- [JSONAPI-Resources/jsonapi-resources](https://github.com/JSONAPI-Resources/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
 - [kambara/Gyazo-for-Linux](https://github.com/kambara/Gyazo-for-Linux) - Gyazo for Linux
 - [empowerunited/manage](https://github.com/empowerunited/manage) - Ruby On Rails Backend Engine
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
