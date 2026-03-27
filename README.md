@@ -437,7 +437,6 @@
 - [rails/rails-dev-box](https://github.com/rails/rails-dev-box) - A virtual machine for Ruby on Rails core development
 - [msmhq/msm](https://github.com/msmhq/msm) - An init script for managing Minecraft servers
 - [emasaka/shails](https://github.com/emasaka/shails) - Bash on Rails
-- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 ## Swift 
 
@@ -454,6 +453,7 @@
 
 - [vim-ruby/vim-ruby](https://github.com/vim-ruby/vim-ruby) - Vim/Ruby Configuration Files
 - [gudata/dotfiles](https://github.com/gudata/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
+- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 
 ## License
