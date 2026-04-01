@@ -375,6 +375,7 @@
 
 ## others 
 
+- [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
 - [medishen/qiks](https://github.com/medishen/qiks) - A caching in TypeScript
