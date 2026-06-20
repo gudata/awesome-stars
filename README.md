@@ -40,7 +40,6 @@
 ## C 
 
 - [johnfanv2/LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [kristrev/tproxy-example](https://github.com/kristrev/tproxy-example) - An example of how TPROXY can be used to proxy tcp connections.
 - [hellosiyan/Viewnior](https://github.com/hellosiyan/Viewnior) - Elegant Image Viewer
 - [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) - 
@@ -92,6 +91,7 @@
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
 - [scribd/objinsync](https://github.com/scribd/objinsync) - Continuously synchronize directories from remote object store to local filesystem
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [bitsbeats/drone-tree-config](https://github.com/bitsbeats/drone-tree-config) - Drone helper for mono repositories.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
