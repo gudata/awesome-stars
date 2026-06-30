@@ -386,6 +386,7 @@
 
 ## others 
 
+- [aleator-labs/genetic_xgb](https://github.com/aleator-labs/genetic_xgb) - Genetic-algorithm hyperparameter optimization for XGBoost classifiers and regressors. Evolves a population via warm-start boosting, fitness/selection/crossover/mutation, with built-in early stopping, 
 - [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic 
