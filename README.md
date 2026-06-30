@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [aleator-labs/genetic_xgb](https://github.com/aleator-labs/genetic_xgb) - Genetic-algorithm hyperparameter optimization for XGBoost classifiers and regressors. Evolves a population via warm-start boosting, fitness/selection/crossover/mutation, with built-in early stopping, 
 - [argilo/secplus](https://github.com/argilo/secplus) - A software implementation of the Security+ system used by garage door openers
 - [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
