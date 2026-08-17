@@ -397,6 +397,7 @@
 
 ## others 
 
+- [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder) - A harness optimized to smaller LLMs
 - [aleator-labs/genetic_xgb](https://github.com/aleator-labs/genetic_xgb) - Genetic-algorithm hyperparameter optimization for XGBoost classifiers and regressors. Evolves a population via warm-start boosting, fitness/selection/crossover/mutation, with built-in early stopping, 
 - [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
