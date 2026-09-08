@@ -142,7 +142,6 @@
 - [HackBulgaria/Frontend-JavaScript-2](https://github.com/HackBulgaria/Frontend-JavaScript-2) - The second edition of the Frontend JavaScript course in HackBulgaria.
 - [workshopper/workshopper](https://github.com/workshopper/workshopper) - A terminal workshop runner framework
 - [sitexw/FuckAdBlock](https://github.com/sitexw/FuckAdBlock) - Detects ad blockers (AdBlock, ...)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [tekrat/eRouter](https://github.com/tekrat/eRouter) - Dynamically load javascript and CSS file based on URL
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [wjcrowcroft/MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes
@@ -451,6 +450,7 @@
 - [medishen/qiks](https://github.com/medishen/qiks) - A caching in TypeScript
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [fterh/heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
 ## Vim Script 
 
