@@ -306,7 +306,7 @@
 - [romanbsd/translate](https://github.com/romanbsd/translate) - A Ruby on Rails 3/4 plugin with a web interface for translating I18n texts
 - [pyromaniac/hoof](https://github.com/pyromaniac/hoof) - Linux zero-configuration server
 - [activerecord-hackery/squeel](https://github.com/activerecord-hackery/squeel) - Active Record, improved. Live again :)
-- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
+- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Search everywhere and in a hurry!
 - [spree-contrib/spree_email_to_friend](https://github.com/spree-contrib/spree_email_to_friend) - Email a friend functionality for Spree Commerce.
 - [kaminari/kaminari](https://github.com/kaminari/kaminari) - ⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
 - [rubygame/rubygame](https://github.com/rubygame/rubygame) - [ABANDONED] Flexible cross-platform game programming library for Ruby
