@@ -120,6 +120,7 @@
 
 ## Java 
 
+- [datafusion-contrib/StreamFusion](https://github.com/datafusion-contrib/StreamFusion) - World's First OSS Flink Accelerator built on Apache DataFusion
 - [wouterbulten/kalmanjs](https://github.com/wouterbulten/kalmanjs) - Javascript based Kalman filter for 1D data
 - [spinscale/elasticsearch-suggest-plugin](https://github.com/spinscale/elasticsearch-suggest-plugin) - Plugin for elasticsearch which uses the lucene FSTSuggester
 - [videlalvaro/gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated Gifs as a transport™
