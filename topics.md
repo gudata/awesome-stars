@@ -36,7 +36,6 @@
 - [database](#database)
 - [developer-tools](#developer-tools)
 - [devops](#devops)
-- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [education](#education)
 - [font](#font)
@@ -230,10 +229,6 @@
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
-## distributed-systems 
-
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
-
 ## docker 
 
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
@@ -338,7 +333,7 @@
 
 - [fidelity/kconnect](https://github.com/fidelity/kconnect) - Kubernetes Connection Manager CLI
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortl
 
 ## linux 
 
