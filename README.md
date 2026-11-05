@@ -423,7 +423,7 @@
 
 ## Rust 
 
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
+- [inko-lang/inko](https://github.com/inko-lang/inko) - Read-only mirror of https://codeberg.org/inko-lang/inko
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
