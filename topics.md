@@ -194,7 +194,7 @@
 
 ## compiler 
 
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
+- [inko-lang/inko](https://github.com/inko-lang/inko) - Read-only mirror of https://codeberg.org/inko-lang/inko
 
 ## computer-science 
 
@@ -683,7 +683,7 @@
 
 ## programming-language 
 
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
+- [inko-lang/inko](https://github.com/inko-lang/inko) - Read-only mirror of https://codeberg.org/inko-lang/inko
 
 ## project-management 
 
@@ -753,7 +753,7 @@
 ## rust 
 
 - [datafusion-contrib/StreamFusion](https://github.com/datafusion-contrib/StreamFusion) - World's First OSS Flink Accelerator built on Apache DataFusion
-- [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
+- [inko-lang/inko](https://github.com/inko-lang/inko) - Read-only mirror of https://codeberg.org/inko-lang/inko
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 
