@@ -92,6 +92,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [webpack](#webpack)
@@ -403,7 +404,6 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [datarootsio/terraform-aws-ecs-airflow](https://github.com/datarootsio/terraform-aws-ecs-airflow) - A terraform module that creates an airflow instance in AWS ECS.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [badboysm890/clara-copilot](https://github.com/badboysm890/clara-copilot) - A alternative to Github Copilot for vscode until you get the access to github copilot
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
 - [Julfikar-Haidar/coding-interview-university](https://github.com/Julfikar-Haidar/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -808,6 +808,10 @@
 ## vpn 
 
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
+
+## vscode 
+
+- [badboysm890/clara-copilot](https://github.com/badboysm890/clara-copilot) - A alternative to Github Copilot for vscode until you get the access to github copilot
 
 ## vue 
 
