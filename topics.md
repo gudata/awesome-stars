@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -99,6 +100,10 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
+
+## agentic-ai 
+
+- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
 
 ## agents 
 
