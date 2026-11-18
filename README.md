@@ -91,7 +91,7 @@
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
 - [scribd/objinsync](https://github.com/scribd/objinsync) - Continuously synchronize directories from remote object store to local filesystem
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [bitsbeats/drone-tree-config](https://github.com/bitsbeats/drone-tree-config) - Drone helper for mono repositories.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
