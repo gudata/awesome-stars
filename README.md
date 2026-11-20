@@ -91,9 +91,9 @@
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - WireGuard Configuration Portal with LDAP connection
 - [barnybug/s3](https://github.com/barnybug/s3) - Swiss army pen-knife for Amazon S3: grep, cat, ls, sync, and more.
 - [scribd/objinsync](https://github.com/scribd/objinsync) - Continuously synchronize directories from remote object store to local filesystem
-- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [bitsbeats/drone-tree-config](https://github.com/bitsbeats/drone-tree-config) - Drone helper for mono repositories.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
+- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -423,6 +423,7 @@
 
 ## Rust 
 
+- [empty-user77/Agentty](https://github.com/empty-user77/Agentty) - A terminal for AI coding agents. Plugins build an agent for every environment; Agentty runs them all. Forward Deployed Engineering, built in.
 - [inko-lang/inko](https://github.com/inko-lang/inko) - Read-only mirror of https://codeberg.org/inko-lang/inko
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
